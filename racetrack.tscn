@@ -1,6 +1,6 @@
 [gd_scene load_steps=21 format=2]
 
-[ext_resource path="res://Motorcycles/motorcycle_green.png" type="Texture" id=1]
+[ext_resource path="res://Cars/car_black_3.png" type="Texture" id=1]
 [ext_resource path="res://racing_tileset.tres" type="TileSet" id=2]
 [ext_resource path="res://player.gd" type="Script" id=3]
 [ext_resource path="res://sounds/engine-loop-1-normalized.wav" type="AudioStream" id=4]
